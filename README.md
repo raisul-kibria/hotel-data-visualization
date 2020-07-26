@@ -1,2 +1,2 @@
-# hotel-data-visualization
-A simple project of exploratory data analysis on hotel booking dataset
+# Hotel Data Visualization
+This project is a basic demontration of exploratory data analysis and classification. Few maxplotlib and pandas functions are used for data visualization. The dataset used here is a 'Hotel booking demand datasets' found in the web. It seems the original source is [this paper](https://doi.org/10.1016/j.dib.2018.11.126) by N. Antonio et al.<br>Apart from this, three classifers- SVC, MLP and Random forest classifier from scikit-learn library are also used for a presented classifying scenario.<br>This project is an introduction on how to begin. Do research more and use other libraries as well.
